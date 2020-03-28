@@ -20,4 +20,4 @@ way of knowing if there is a copyright on these images. If you find an image
 hosted in this repository that is yours and of limited use, please let me know
 and I will remove it.
 
-![DistroMap image](https://github.com/00riddle00/wallpapers/raw/master/Tech/distromap.png) 
+![DistroMap image](https://github.com/00riddle00/wallpapers/raw/master/Tech/distromap.jpg) 
