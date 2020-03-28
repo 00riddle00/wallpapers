@@ -6,8 +6,8 @@ Here's my entire wallpaper folder.
 
 ## Where Did I Get These?
 I find wallpapers in a number of different locations but good places to check out include [Imgur](http://imgur.com) and [/wg/](http://4chan.org/wg).  
-Some of the images are borrowed from DistroTube [gitlab](https://gitlab.com/dwt1)
-Most of the images are borrowed from LukeSmith [github](https://github.com/LukeSmithxyz), who, in turn, got most of the wallpapers from [/wg/](http://4chan.org/wg).
+Some of the images are borrowed from [DistroTube](https://gitlab.com/dwt1)
+Most of the images are borrowed from [LukeSmith](https://github.com/LukeSmithxyz), who, in turn, got most of the wallpapers from [/wg/](http://4chan.org/wg).
 
 ## Sorting
 
