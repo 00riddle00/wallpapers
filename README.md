@@ -1,4 +1,4 @@
-My Wallpaper Collection
+# My Wallpaper Collection
 
 ![Morrowind image](https://github.com/00riddle00/wallpapers/raw/master/TES/morrowind.jpg) 
 
